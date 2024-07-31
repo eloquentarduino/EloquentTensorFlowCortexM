@@ -1,3 +1,5 @@
+**This library is deprecated! Read how to migrate at [https://eloquentarduino.com/posts/tensorflow-lite-tinyml-esp32](https://eloquentarduino.com/posts/tensorflow-lite-tinyml-esp32).**
+
 # EloquentTensorFlowCortexM
 
 An Arduino library to run TensorFlow models on ARM Cortex-M chips without pain.
